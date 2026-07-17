@@ -36,3 +36,6 @@ uploads/
 
 # Logs
 *.log
+
+#Embeddings
+embeddings.json
